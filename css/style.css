@@ -627,8 +627,8 @@ a {
 /* Button in send message */
 .button{
   position:relative;
-  width: 70px;
-  height: 30px;
+  width: 120px;
+  height: 50px;
   font-size: 10px;
   background-color: #202231;
   color: #fff;
